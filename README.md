@@ -1,4 +1,4 @@
-# Azure OpenAI Workshop 
+# Azure OpenAI Workshop  (Part #1)
 
 ## Quick Start
 
